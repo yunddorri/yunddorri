@@ -25,7 +25,8 @@ Here are some ideas to get you started:
 - (21.03 ~ 22.08) SWLUG
 - (21.07 ~ 21.08) GURU - Unity Project
 - (22.01 ~ 22.02) GURU - Android Project
-- (22.01 ~ ) LIKELION 멋쟁이사자처럼 서울여자대학교 운영진 10기(백엔드)
+- (22.01 ~ 22.12) LIKELION 멋쟁이사자처럼 서울여자대학교 10기 운영진
+- (23.01 ~ ) LIKELION 멋쟁이사자처럼 서울여자대학교 11기 부대표
 
 ## Interest 👀
 - Back-End
